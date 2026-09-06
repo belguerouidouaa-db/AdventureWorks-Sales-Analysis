@@ -171,17 +171,16 @@ Based on the analysis, the following actions could help improve sales performanc
 
 ## Project Files
 
-```text
-AdventureWorks-Sales-Analysis/
-│
-├── README.md
-├── AdventureWorks-Sales-Analysis.xlsm
-│
-└── assets/
-    ├── time-analysis-dashboard.png
-    └── detail-dashboard.png
+    AdventureWorks-Sales-Analysis/
+    │
+    ├── README.md
+    ├── AdventureWorksPractice.xlsm
+    │
+    └── assets/
+        ├── detail-dashboard.png
+        └── time-analysis-dashboard.png
 
-```
+---
 
 ## Conclusion
 
