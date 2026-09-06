@@ -180,3 +180,11 @@ AdventureWorks-Sales-Analysis/
 └── assets/
     ├── time-analysis-dashboard.png
     └── detail-dashboard.png
+
+```
+
+## Conclusion
+
+This project demonstrates an end-to-end Excel analysis workflow, from **data preparation and modeling to analysis and interactive dashboard development**.
+
+By combining **Power Query, Power Pivot, PivotTables, Excel formulas, and visualization techniques**, the project transforms the AdventureWorks dataset into a structured analysis of **business performance, profitability, products, customers, and time-based trends**.
