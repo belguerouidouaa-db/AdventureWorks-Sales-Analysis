@@ -2,7 +2,7 @@
 
 > An interactive Excel sales analysis exploring business performance across revenue, profitability, products, customers, and time.
 
-`EXCEL` · `POWER QUERY` · `POWER PIVOT` · `DATA MODELING` · `PIVOT TABLES` · `DATA VISUALIZATION`
+`EXCEL` · `POWER QUERY` · `POWER PIVOT` · `VBA` · `DATA MODELING` · `PIVOT TABLES` · `DATA VISUALIZATION` 
 
 ---
 
@@ -49,7 +49,7 @@ The analysis was designed to answer the following business questions:
 | **Charts & Visualizations** | Used to communicate trends, comparisons, contributions, and performance patterns |
 | **KPI Analysis** | Tracked revenue, profit, cost, quantity, transactions, and profit margin |
 | **Dashboard Design** | Built two interactive dashboards for time-based and detailed business analysis |
-
+| **VBA** | Used to create a reset button for clearing dashboard filters |
 ---
 
 ## Dataset & Data Model
